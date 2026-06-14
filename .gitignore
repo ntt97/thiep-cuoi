@@ -4,3 +4,4 @@ node_modules/
 .venv/
 *.bak
 savedate-clean.png
+preview-path.png
